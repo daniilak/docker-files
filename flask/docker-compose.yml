@@ -1,0 +1,5 @@
+api_mortage:
+    build: .
+    ports:
+        - 5087:5087
+    privileged: true
